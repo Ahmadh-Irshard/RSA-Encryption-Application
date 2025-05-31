@@ -1,3 +1,4 @@
+#Done by Ahmadh, Unauthorized distribution or replication is strictly prohibited!!!
 import tkinter as tk
 from tkinter import filedialog, messagebox, scrolledtext
 import os
